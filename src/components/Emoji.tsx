@@ -1,7 +1,4 @@
-import { Icon, IconButtonProps, IconProps, Text } from "@chakra-ui/react";
-import React from "react";
-import { IconBaseProps, IconType } from "react-icons";
-import { FaBullseye, FaMehRollingEyes, FaThumbsUp } from "react-icons/fa";
+import { Text } from "@chakra-ui/react";
 
 interface Props {
   rating: number;
